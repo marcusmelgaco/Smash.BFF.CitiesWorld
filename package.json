@@ -1,0 +1,28 @@
+{
+  "name": "cities_world",
+  "version": "1.0.0",
+  "description": "Realiza ações automatizadas em sistemas",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon --ignore \"*.json\" app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "env-production": "cp env.production .env",
+    "env-dev": "cp env.dev .env"
+  },
+  "author": "marcusmelgaco@hotmail.com.br",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=12.18.0",
+    "npm": ">=6.14.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-timeout": "^1.9.0",
+    "cors": "^2.8.5",
+    "csv": "^6.2.8",
+    "dotenv": "^16.0.3",
+    "express": "^4.17.1",
+    "firebase-admin": "^11.5.0",
+    "nodemon": "^2.0.18"
+  }
+}

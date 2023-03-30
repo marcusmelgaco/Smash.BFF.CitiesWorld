@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "projectId": "cities-world",
+  "privateKeyId": "402e7d028c3ece6237ca4b92a708c82808ecd253",
+  "privateKey": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCthm1OEm3vGW9i\noXVmqklxNz6JYSk4ir/LccOdHLeHYNeFOGnBy1B30blfY+D0SkhmAyqBvlREJ956\n6txQDdXhddVumZ10IDYmJ1/I6rNaH08lqeGlU4m64Lm05Xz0R/dpK4j06PapN4ZU\n/3SLCuu6TJaw05LuCZCyhrrM5iCZ3SkDIV6fyN2v6iuizpjz+byqPnqWNruPQxik\n+aWOwzPT0uQWnsF+l4axVgeNbw0RuCBZOnSG/YNl+BlnZDVQ3+k3gF/NIMfEuqnx\nVPf8Wa10h2qCisNW8npV/Al0isXKqo3iqDXRFxytMoU8VlyHh6KcKJH/BwBVT0mU\ndb4btJoRAgMBAAECggEAL600IhPJNb0I0BIplhQqiptRqOBTuY/Rw52Vz/igamdO\nv/EwiYkJqmoqow1ntOcl/jVXe/9l2rYTmDUoZCxw+/nqsvEtBEeHaTM/S45Eyfm5\nPtFuyIRr3rc4/v1guCN/1FscTaImh3bUh00K4dsVyoGZk6sF/zYMliiTcZG3Gl7n\nmLa052f9UiJ7nvG5wCc3O/VNFuL5S/o6j0XCwvxu6tlcKKbnre2tmWrd7YgdqbT7\n5liWFV6fcuLScUowXigA/E3pvIhQsuoKxbNOZ2T8BzP/3pdUPrAAQvzM6IDSnEls\nCoCq0ENY7poQ3Xz+Ovb/5sGFvhQpYslQPkiYKPINEwKBgQDqa6AfIv5C4dfzgMVj\nVns+j3c55lobnWNa1X+PqCF7sPS3tH8rJCMdGJxsWEc32dm9r/sGm+kablJLhrRa\nfyaAHipiZ1h5Y303nH8DGHWLa3T2mExkG8N/jNhUb8kxlSUJJ0g49+T4KOyU/N40\nGsahT9250Xl/BHoSrxguPh1vcwKBgQC9f7yYdqiEGTfntwwmTEsvSinTgRC8I1Po\no7DZavuhKEmpW8KlP4Pv6UIZga+A+GT4TjV21UDpfzCF1LxQVTEGJMZli685VAPD\n5gMv0TJ/pvztVbNftQyEpFD7n5kqTe6Mt0U2YPz0KHHvCBa1/Ca8wsr52YRUGVre\nbcJpZMGnawKBgQDQk8J88d3aFKjY+JKouKIgH/athdBXEcr9X0mIwMhKDkEv02Hz\nOMwlb2h+3m0/vI6IwLRSRRc7dT20Bb8jZk8TX8PGmr2WBHe9q3k3f+PWkV4Yq5oM\n2McyDlfNiUky3Ml/Q3x3c9o/E+qtBfGP2uMxVKasVz4LTihvx2t0ecAnEQKBgGG4\ncYUeC6CzcITpfDZzuYHVeOQ89mhOv4KEhzpXVROyNupDC4kzy9H4M8H7gom7jjYN\n/rwdFLBUiq05GzNB+1nztOvAsMebb6WiA5qxAp2Ze2zYePut3Zq5MZnQn6eVMKMY\nD3UPZuJxyO8++Jc4RLGqsglOBlNoD9gMOeknsEWpAoGAKxq/tJIVr9+3roFIbf9k\nQ+drnVPbF5PDDZBGgsG/0OHWGYYaEe79fpMUsu8G67Qopv1ZIDUO+ftfRGCq7sRL\n4JniLd5n+Qgmw+qa/V2MO8GM01thLAliR0+G3Wcx8hGWHeyegeO3saxy/4o6CQx8\nvtCsu0w5jm44NExoArqRxJ8=\n-----END PRIVATE KEY-----\n",
+  "clientEmail": "firebase-adminsdk-gdojz@cities-world.iam.gserviceaccount.com",
+  "clientId": "100455878389523718687",
+  "authUri": "https://accounts.google.com/o/oauth2/auth",
+  "tokenUri": "https://oauth2.googleapis.com/token",
+  "authProviderx509CertUrl": "https://www.googleapis.com/oauth2/v1/certs",
+  "clientX509CertUrl": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-gdojz%40cities-world.iam.gserviceaccount.com"
+}
